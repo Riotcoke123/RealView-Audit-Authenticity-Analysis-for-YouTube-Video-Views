@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
+    ![Youtube_logo](https://github.com/user-attachments/assets/3f5ec16e-0a4f-46a1-b497-8d00d217dd03)
     <h1>RealView Audit: Authenticity Analysis for YouTube Video Views</h1>
     <p>
         This project, <strong>RealView Audit</strong>, provides an analysis tool to estimate the authenticity of view counts on YouTube videos. The tool fetches video data using the YouTube Data API and calculates an estimated proportion of real and bot-generated views.
