@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    ![Youtube_logo](https://github.com/user-attachments/assets/99f3051c-76e7-48d5-b921-6a3846358ece)
+    ![image.png](https://github.com/user-attachments/assets/99f3051c-76e7-48d5-b921-6a3846358ece)
 
     <h1>RealView Audit: Authenticity Analysis for YouTube Video Views</h1>
     <p>
