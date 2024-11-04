@@ -8,11 +8,6 @@
     <h1>RealView Audit: Authenticity Analysis for YouTube Video Views</h1>
     <p>
         This project, <strong>RealView Audit</strong>, provides an analysis tool to estimate the authenticity of view counts on YouTube videos. The tool fetches video data using the YouTube Data API and calculates an estimated proportion of real and bot-generated views.
-    </p>
-    <h2>Project URL</h2>
-    <p>
-        GitHub Repository: <a href="https://github.com/Riotcoke123/RealView-Audit-Authenticity-Analysis-for-YouTube-Video-Views" target="_blank">RealView Audit Repository</a>
-    </p>
     <h2>License</h2>
     <p>
         This project is licensed under the <strong>GNU General Public License v3.0</strong>. For more details, see the <a href="https://www.gnu.org/licenses/gpl-3.0.en.html" target="_blank">full license text</a>.
